@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/ujjwal250802",
     resume:
-      "https://drive.google.com/file/d/1BxnmSOP5inycBz44hYeB9D4zadI2bVl9/view?usp=sharing",
+      "https://drive.google.com/file/d/1uEt0_p5XpqeALAgk3RYJ4S65gk3qvTQR/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/ujjwal-kaushik-846022285/",
     twitter: "https://twitter.com",
     insta: "https://www.instagram.com/_ujjw.alkaushik/",
@@ -188,7 +188,7 @@ export const Bio = {
         "JavaScript",
         "MongoDB",
       ],
-      doc: "https://github.com/user-attachments/assets/229b01f2-4b9c-43de-8b47-87e754ece582",
+      doc: "https://github.com/user-attachments/assets/822735dd-01f8-4bae-84c7-c27d75957cfc",
     },
   ];
   
