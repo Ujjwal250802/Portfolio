@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/ujjwal250802",
     resume:
-      "https://drive.google.com/file/d/1VKnUoXjvwYG0bmKBuNzM4IS6d2ItHbWJ/view?usp=sharing",
+      "https://drive.google.com/file/d/1sCEgymqY0GD4vps8VSknPI_kxST00bXq/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/ujjwal-kaushik-846022285/",
     twitter: "https://twitter.com",
     insta: "https://www.instagram.com/_ujjw.alkaushik/",
@@ -25,11 +25,7 @@ export const Bio = {
           image:
             "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
         },
-        {
-          name: "React Native",
-          image:
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt8msSdkuY3G81WM_FIzMhJi66jj1bXmAgyw&s",
-        },
+
         {
           name: "HTML",
           image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -172,6 +168,7 @@ export const Bio = {
         "React Js",
 
       ],
+      doc: "https://github.com/user-attachments/assets/27f6d1f6-7d64-4f7c-b262-62b5fe0efd0d",
     },
     {
       id: 1,
@@ -188,7 +185,7 @@ export const Bio = {
         "JavaScript",
         "MongoDB",
       ],
-      doc: "https://github.com/user-attachments/assets/822735dd-01f8-4bae-84c7-c27d75957cfc",
+      doc: "https://github.com/user-attachments/assets/d833a4d6-28e7-41d7-9902-3534e81ca4bb",
     },
   ];
   
@@ -302,16 +299,16 @@ export const Bio = {
     },
     {
       id: 10,
-      title: "Revision-Hub",
+      title: "Article-Hub",
       date: "Aril 2024 - May-2024",
       description:
         "A content management platform that allows users to read published articles without login and facilitatesadmin- controlled article submissions and updates.Implemented a user approval workflow where only approved users can add, update, or delete articles through an easy-to-use word-like editor.",
       image:
-        "https://github.com/user-attachments/assets/642e1861-19b3-442b-8d5e-e5c1530c4708",
+        "https://github.com/user-attachments/assets/e3e04b7e-d56e-43b9-a537-d6bd45ffb99e",
       tags: ["React Js", "Node Js", "MySql","Bootstrap"],
       category: "web app",
-      github: "https://github.com/Ujjwal250802/RevisionHub.git",
-      webapp: "https://drive.google.com/file/d/16kgDnIHT9RMI-OiwhZAkOXs7DVlJubeW/view?usp=sharing",
+      github: "https://github.com/Ujjwal250802/article-hub-frontend.git",
+      webapp: "https://github.com/user-attachments/assets/a66ad110-2a83-4b57-8390-967e48faada6",
     },
     {
       id: 4,
